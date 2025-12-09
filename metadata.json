@@ -1,0 +1,5 @@
+{
+  "name": "finalApp",
+  "description": "Aplicación para cotizar viajes especiales, calcular costos por kilómetro y viáticos, y generar presupuestos en PDF.",
+  "requestFramePermissions": []
+}
